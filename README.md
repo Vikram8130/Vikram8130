@@ -1,3 +1,7 @@
+# Hi, I'm Vikramaditya Karanwal!
+
+## Devops Engineer at Pine Labs
+
 const vikram = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Go", "Java", "C++", "HTML", "CSS"],
