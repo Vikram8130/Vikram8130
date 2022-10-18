@@ -1,6 +1,6 @@
-# Hi, I'm Vikramaditya Karanwal!
+# _Hi, I'm Vikramaditya Karanwal!_
 
-## Devops Engineer at Pine Labs
+## Devops Engineer at [Pine Labs](https://www.pinelabs.com/)
 
 const vikram = {
     pronouns: "He" | "Him",
